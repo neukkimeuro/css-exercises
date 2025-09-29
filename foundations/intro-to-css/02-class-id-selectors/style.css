@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.salmon {
+    background-color: #fa8072;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.fancy {
+    font-size: 24px;
+}
+
+#bigblue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#neon {
+    background-color: #90ee90;
+    font-weight: bold;
+}
